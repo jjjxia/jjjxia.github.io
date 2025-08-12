@@ -9,16 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/   
+    url: /jjjxia.github.io.publications/   
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /jjjxia.github.io.year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /jjjxia.github.io.cv/
     
   #- title: "CV"
    # url: /cv-json/
     
   - title: "Guide"
-    url: /markdown/
+    url: /jjjxia.github.io.markdown/
