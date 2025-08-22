@@ -2,7 +2,6 @@
 title: "Scaling Probabilistic Reasoning: A Revisit and Revision of ProbLog"
 collection: publications
 category: conference
-permalink: /publication/2009-10-01-paper-title-number-1
 date: 2009-10-01
 venue: 'In processing of CAV, 2026'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
