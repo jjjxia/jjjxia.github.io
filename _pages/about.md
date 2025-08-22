@@ -6,15 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello! I'm **Jiahao Xia**, currently a sophomore at the **University of Maryland**.  
+I plan to post technical blogs and future publications here to record my research journey and interests.
 
-This is Jiahao Xia's personal website. I'm currently a sophomore at Univeristy of Maryland. I'm planning to post some technical blogs and future publications on this website to record my passion.
+### Summer Work
+This summer, I am working on **Probabilistic Logic Programming (PLP)**.  
+You can find my summer report [here](/files/ReportCAV.pdf.pdf).
 
-I am doing some works on Probabilistic Logic Programming (PLP) this summer. You can find my summer report [here](/files/ReportCAV.pdf.pdf).
+### Research Interests
 
-Research Interests
-======
+- Artificial Intelligence  
+- Formal Methods  
+- Causal Inference 
+- Cognitive Science
 
+---
 
-Personal Interests
-======
-
+### Personal Interests
+Creative novels, violin, traveling, metal and rock.
