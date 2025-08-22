@@ -12,13 +12,13 @@ main:
     url: /publications/   
         
   - title: "Blog Posts"
-    url: /jjjxia.github.io.year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: /jjjxia.github.io.cv/
+    url: /cv/
     
   #- title: "CV"
    # url: /cv-json/
     
   - title: "Guide"
-    url: /jjjxia.github.io.markdown/
+    url: /markdown/
