@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **University of Maryland** — Intended B.S. in Computer Science  
+* **University of Maryland** — Intended B.S. in Computer Science; Currently in Letters & Sciences
   *Aug 2025 – May 2028 (expected)*  
 
 * **The Pennsylvania State University** — B.S. in Electrical Engineering  
@@ -23,9 +23,9 @@ Research experience
 * Summer 2025: Research Assistant
   * Purdue University
   * Duties included: 	                                                             
-    - Extended the Soufflé Datalog engine to support probabilistic and evidence semantics to support probabilistic computations as a high-performance alternative to Problog using C++.
-    - Implemented the task of Marginal Probability Computations in Soufflé.
-    - Integrated Sentential Decision Diagram (SDD) into Soufflé to perform Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings and SDD vtree structures for efficiency.
+    - Extended Soufflé Datalog engine with probabilistic and evidence semantics as a high-performance alternative to Problog using C++.
+    - Implemented Marginal Probability Computations in Soufflé.
+    - Integrated Sentential Decision Diagram (SDD) into Soufflé for Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings and SDD vtree structures for efficiency.
     - Built benchmarks and evaluated performance against existing Problog implementations on multiple datasets.
     - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for OOPSLA 2026.
 
@@ -36,8 +36,19 @@ Skills
 * Tools & Environment:
   * Linux
   * Git
-  * LaTex
+  * LaTeX
 * Programming Languages: C++, Python, Java
+
+Research Interests
+=====
+* Artificial Intelligence
+* Formal Methods
+* Causal Inference
+* Cognitive Science
+
+Coursework
+=====
+Data Structures, Discrete Math, Linear Algebra, Calculus, Physics
 
 Publications
 ======
