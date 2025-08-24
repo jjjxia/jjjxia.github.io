@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* Intended to major in CS, University of Maryland, 2028(expected)
-* The Pennsylvania State University, Aug 2024-May 2025
-  B.S. in Electrical Engineering 
-  GPA: 3.94/4.00
-  Dean’s List two semesters
+* **University of Maryland** — Intended B.S. in Computer Science  
+  *Aug 2025 – May 2028 (expected)*  
 
-Work experience
+* **The Pennsylvania State University** — B.S. in Electrical Engineering  
+  *Aug 2024 – May 2025*  
+  - GPA: 3.94 / 4.00  
+  - Dean’s List (two semesters)
+Research experience
 ======
 * Summer 2025: Research Assistant
   * Purdue University
