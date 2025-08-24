@@ -12,6 +12,10 @@ redirect_from:
 Education
 ======
 * Intended to major in CS, University of Maryland, 2028(expected)
+* The Pennsylvania State University, Aug 2024-May 2025
+  B.S. in Electrical Engineering 
+  GPA: 3.94/4.00
+  Dean’s List two semesters
 
 Work experience
 ======
