@@ -26,7 +26,7 @@ Work experience
     - Implemented the task of Marginal Probability Computations in Soufflé.
     - Integrated Sentential Decision Diagram (SDD) into Soufflé to perform Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings and SDD vtree structures for efficiency.
     - Built benchmarks and evaluated performance against existing Problog implementations on multiple datasets.
-    - Preparing the submission to CAV, 2026.
+    - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for OOPSLA 2026.
 
   * Supervisor: Dr. Jingbo Wang, Xuyang Li
   
