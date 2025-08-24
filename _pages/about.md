@@ -9,7 +9,7 @@ redirect_from:
 Hello! I'm **Jiahao Xia**, currently a sophomore at the **University of Maryland**.  
 I plan to post technical blogs and future publications here to record my research journey and interests.
 
-### Summer Work
+### Reseach Experience
 This summer, I am working on **Probabilistic Logic Programming (PLP)**.  
 You can find my summer report [here](/files/ReportCAV.pdf.pdf).
 

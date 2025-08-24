@@ -15,29 +15,24 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Research Assistant
+  * Purdue University
+  * Duties included: 	                                                             
+    - Extended the Soufflé Datalog engine to support probabilistic and evidence semantics to support probabilistic computations as a high-performance alternative to Problog using C++.
+    - Implemented the task of Marginal Probability Computations in Soufflé.
+    - Integrated Sentential Decision Diagram (SDD) into Soufflé to perform Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings and SDD vtree structures for efficiency.
+    - Built benchmarks and evaluated performance against existing Problog implementations on multiple datasets.
+    - Preparing the submission to CAV, 2026.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Jingbo Wang, Xuyang Li
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Tools & Environment:
+  * Linux
+  * Git
+  * LaTex
+* Programming Languages: C++, Python, Java
 
 Publications
 ======
