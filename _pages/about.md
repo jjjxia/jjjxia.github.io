@@ -10,8 +10,9 @@ Hello! I'm **Jiahao Xia**, currently a sophomore at the **University of Maryland
 I plan to post technical blogs and future publications here to record my research journey and interests.
 
 ### Reseach Experience
-This summer, I am working on **Probabilistic Logic Programming (PLP)**.  
-You can find my summer report [here](/files/ReportCAV.pdf.pdf).
+This summer, I am working on Probabilistic Logic Programming (PLP).
+More details can be found on my [CV](/cv.md) and in my [summer research report (PDF)](/files/ReportCAV.pdf.pdf).
+.
 
 ### Research Interests
 
