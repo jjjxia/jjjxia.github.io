@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+Education
 ======
 - **University of Maryland**, College Park  
   Intended B.S. in Computer Science (Currently in Letters & Sciences)  
@@ -20,7 +20,7 @@ redirect_from:
   Aug 2024 – May 2025  
   GPA: 3.94 / 4.00; Dean’s List (two semesters)  
 
-##Research Experience
+Research Experience
 ======
 - **Research Assistant**, Purdue University — Summer 2025  
   Supervised by Dr. Jingbo Wang and Xuyang Li 
@@ -31,7 +31,7 @@ redirect_from:
     - Built benchmarks and evaluated performance against existing Problog implementations on multiple datasets.
     - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for OOPSLA 2026.
 
-##Skills
+Skills
 ======
 * **Tools & Environment**:
   * Linux
@@ -39,19 +39,19 @@ redirect_from:
   * LaTeX
 * **Programming Languages**: C++, Python, Java
 
-##Research Interests
+Research Interests
 =====
 * Artificial Intelligence
 * Formal Methods
 * Causal Inference
 * Cognitive Science
 
-##Coursework
+Coursework
 =====
 * In Progress: CMSC132 (Data Structures), CMSC250 (Discrete Math), MATH240 (Linear Algebra)  
 * Completed: CMSC131 (via placement), MATH140/141 (Calculus I–II, A), PHYS161 (Physics I, A)
 
-##Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
