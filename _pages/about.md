@@ -11,7 +11,7 @@ I plan to post technical blogs and future publications here to record my researc
 
 ### Reseach Experience
 This summer, I am working on Probabilistic Logic Programming (PLP).
-More details can be found on my [CV](/cv.md) and in my [summer research report (PDF)](/files/ReportCAV.pdf.pdf).
+More details can be found on my [CV](/cv.md) and in my [summer research report (PDF)](/files/Summer_Intern_Report.pdf).
 .
 
 ### Research Interests
