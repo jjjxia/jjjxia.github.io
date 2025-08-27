@@ -9,11 +9,9 @@ redirect_from:
 Hello! I'm **Jiahao Xia**, currently a sophomore at the **University of Maryland**.  
 I plan to post technical blogs and future publications here to record my research journey and interests.
 
-### Reseach Experience
-> **Currently working on** *Probabilistic Logic Programming (PLP)*,  
-> exploring how uncertainty and symbolic reasoning intertwine in computation.  
-> More details can be found in my [CV](/cv.md) and my [Summer Research Report (PDF)](/files/Summer_Intern_Report.pdf).  
-{: .notice--info}
+### Research Experience
+This summer, I have been working on **Probabilistic Logic Programming (PLP)**, focusing on how uncertainty and logic intertwine in computational reasoning.  
+You can find more about my academic background in my [CV](/cv.md) and my [Summer Research Report (PDF)](/files/Summer_Intern_Report.pdf).  
 
 ### Research Interests
 
