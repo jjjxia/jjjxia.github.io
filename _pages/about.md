@@ -12,8 +12,7 @@ I write about my research journey, publish technical blogs, and share my work.
 ### Research Experience
 **Summer 2025 – Probabilistic Logic Programming Research**
 Explored the interplay of uncertainty and logic in computational reasoning.
-Contributions include [specific project/outcome]. 
-See my CV and Summer Research Report for more details.
+ See my [CV](/_pages/cv.md) and [Summer Research Report](/files/Summer_Intern_Report.pdf) for more details.
 
 ### Research Interests
 
