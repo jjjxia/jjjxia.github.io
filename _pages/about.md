@@ -17,8 +17,7 @@ Explored the interplay of uncertainty and logic in computational reasoning.
 ### Research Interests
 
 - Artificial Intelligence  
-- Formal Methods  
-- Causal Inference 
+- Formal Methods
 - Cognitive Science
 
 ---
