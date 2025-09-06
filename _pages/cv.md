@@ -48,7 +48,7 @@ Research Interests
 
 Coursework
 =====
-* In Progress: CMSC132 (Data Structures), CMSC250 (Discrete Math), MATH240 (Linear Algebra)  
+* In Progress: CMSC132 (Data Structures), CMSC250 (Discrete Math), MATH241 (Calculus III)  
 * Completed: CMSC131 (via placement), MATH140/141 (Calculus I–II, A), PHYS161 (Physics I, A)
 
 Publications
