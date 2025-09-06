@@ -20,6 +20,14 @@ Education
   Aug 2024 – May 2025  
   GPA: 3.94 / 4.00; Dean’s List (two semesters)  
 
+Publications
+======
+**In preparation**
+
+Paper on probabilistic extensions of Datalog for model counting, CAV 2026 (co-first author).
+
+Paper on high-performance probabilistic logic programming, PLDI 2026 (collaborator). 
+
 Research Experience
 ======
 - **Research Assistant**, Purdue University — Summer 2025  
@@ -50,11 +58,3 @@ Coursework
 =====
 * In Progress: CMSC132 (Data Structures), CMSC250 (Discrete Math), MATH241 (Calculus III)  
 * Completed: CMSC131 (via placement), MATH140/141 (Calculus I–II, A), PHYS161 (Physics I, A)
-
-Publications
-======
-**In preparation**
-
-Paper on probabilistic extensions of Datalog for model counting, CAV 2026 (co-first author).
-
-Paper on high-performance probabilistic logic programming, OOPSLA 2026 (collaborator).
