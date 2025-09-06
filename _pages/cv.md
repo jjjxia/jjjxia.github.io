@@ -53,6 +53,8 @@ Coursework
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**In preparation**
+
+Paper on probabilistic extensions of Datalog for model counting, CAV 2026 (co-first author).
+
+Paper on high-performance probabilistic logic programming, OOPSLA 2026 (collaborator).
