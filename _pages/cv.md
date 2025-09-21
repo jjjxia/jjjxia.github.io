@@ -30,14 +30,15 @@ Paper on high-performance probabilistic logic programming, PLDI 2026 (collaborat
 
 Research Experience
 ======
-- **Research Assistant**, Purdue University — Summer 2025  
+- **Research Assistant**, Purdue University
+  May 2025 - Present  
   Supervised by Dr. Jingbo Wang and Xuyang Li 
   * Duties included: 	                                                             
-    - Extended Soufflé Datalog engine with probabilistic and evidence semantics as a high-performance alternative to Problog using C++.
+    - Extended Soufflé Datalog engine with semantics(evidence and query) as a high-performance alternative to Problog using C++.
     - Implemented Marginal Probability Computations in Soufflé.
     - Integrated Sentential Decision Diagram (SDD) into Soufflé for Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings and SDD vtree structures for efficiency.
-    - Built benchmarks and evaluated performance against existing Problog implementations on multiple datasets.
-    - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for OOPSLA 2026.
+    - Built benchmarks(webkb) and evaluated performance against existing Problog implementations on multiple datasets.
+    - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for PLDI 2026.
 
 Skills
 ======
@@ -51,7 +52,6 @@ Research Interests
 =====
 * Artificial Intelligence
 * Formal Methods
-* Causal Inference
 * Cognitive Science
 
 Coursework
