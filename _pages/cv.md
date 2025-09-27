@@ -36,17 +36,10 @@ Research Experience
   * Duties included: 	                                                             
     - Extended Soufflé Datalog engine with semantics(evidence and query) as a high-performance alternative to Problog using C++.
     - Implemented Marginal Probability Computations in Soufflé.
-    - Integrated Sentential Decision Diagram (SDD) into Soufflé for Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings and SDD vtree structures for efficiency.
-    - Built benchmarks(webkb) and evaluated performance against existing Problog implementations on multiple datasets.
+    - Integrated Sentential Decision Diagram (SDD) into Soufflé for Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings for efficiency.
+    - Built benchmarks(webkb dataset) and evaluated performance against existing Problog implementations on multiple datasets.
+    - Plan to support approximation computation.
     - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for PLDI 2026.
-
-Skills
-======
-* **Tools & Environment**:
-  * Linux
-  * Git
-  * LaTeX
-* **Programming Languages**: C++, Python, Java
 
 Research Interests
 =====
