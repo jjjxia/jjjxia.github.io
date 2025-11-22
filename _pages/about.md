@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 Hello! I’m **Jiahao Xia**, a sophomore at the University of Maryland. 
-I write about my research journey, publish technical blogs, and share my work.
+I write about my research journey, publish technical blogs, and share my work. (Updated by 2025/11/21)
 
 ### Research Experience
 **Summer 2025 – Present**  
-Focused on Scaling Probabilistic Reasoning. Currently preparing two papers for submission to CAV2026 and PLDI2026. See my [CV](/cv.md) and [Summer Research Report](/files/Summer_Intern_Report.pdf) for more details.
+Focused on Scaling Probabilistic Reasoning. Currently preparing two papers for submission to CAV2026. See my [CV](/cv.md) and [Summer Research Report](/files/Summer_Intern_Report.pdf) for more details.
 
 ### Research Interests
 

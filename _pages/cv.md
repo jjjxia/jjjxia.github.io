@@ -26,20 +26,20 @@ Publications
 
 Paper on probabilistic extensions of Datalog for model counting, CAV 2026 (co-first author).
 
-Paper on high-performance probabilistic logic programming, PLDI 2026 (collaborator). 
+Paper on high-performance probabilistic logic programming, CAV 2026 (collaborator). 
 
 Research Experience
 ======
 - **Research Assistant**, Purdue University
-  May 2025 - Present  
+  May 2025 - Present
   Supervised by Dr. Jingbo Wang and Xuyang Li 
-  * Duties included: 	                                                             
-    - Extended Soufflé Datalog engine with semantics(evidence and query) as a high-performance alternative to Problog using C++.
+  * Duties included: 	                                                              
+    - Designed and implemented a probabilistic extension of the Soufflé Datalog engine, adding full semantics for probabilistic queries, evidence, and weighted rules—a high-performance alternative to ProbLog.
     - Implemented Marginal Probability Computations in Soufflé.
     - Integrated Sentential Decision Diagram (SDD) into Soufflé for Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings for efficiency.
     - Built benchmarks(webkb dataset) and evaluated performance against existing Problog implementations on multiple datasets.
-    - Plan to support approximation computation.
-    - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for PLDI 2026.
+    - Developed correlation-aware derivation-graph rewrites, including multiple-patterns detection, and perserving probability equivalency.
+    - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for CAV 2026.
 
 Research Interests
 =====
