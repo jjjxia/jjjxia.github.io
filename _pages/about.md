@@ -11,7 +11,7 @@ I write about my research journey, publish technical blogs, and share my work. (
 
 ### Research Experience
 **Summer 2025 – Present**  
-Focused on Scaling Probabilistic Reasoning. Currently preparing two papers for submission to CAV2026. See my [CV](/cv.md), [repo](github.com/Hughshine/souffle/tree/online) and [Summer Research Report](/files/Summer_Intern_Report.pdf) for more details.
+Focused on Scaling Probabilistic Reasoning. Currently preparing two papers for submission to CAV2026. See my [CV](/cv.md), [repo](https://github.com/Hughshine/souffle/tree/online) and [Summer Research Report](/files/Summer_Intern_Report.pdf) for more details.
 
 ### Research Interests
 
