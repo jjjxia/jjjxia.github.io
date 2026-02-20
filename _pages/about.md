@@ -10,8 +10,8 @@ Hello! I’m **Jiahao Xia**, a sophomore at the University of Maryland.
 I write about my research journey, publish technical blogs, and share my work. (Updated by 2025/11/21)
 
 ### Research Experience
-**Summer 2025 – Present**  
-Focused on Scaling Probabilistic Reasoning. Currently preparing two papers for submission to CAV2026. See my [CV](/cv.md), [repo](https://github.com/Hughshine/souffle/tree/online) and [Summer Research Report](/files/Summer_Intern_Report.pdf) for more details.
+**May 2025 – Mar 2026**  
+Focused on Scaling Probabilistic Logic Reasoning. Working with Souffle and Problog. Currently preparing two papers for submission to CAV2026. See my [CV](/cv.md), [repo](https://github.com/Hughshine/souffle/tree/online) for more details.
 
 ### Research Interests
 

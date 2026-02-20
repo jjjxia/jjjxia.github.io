@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 - **University of Maryland**, College Park  
-  Intended B.S. in Computer Science (Currently in Letters & Sciences)  
+  B.S. in Computer Science
   Aug 2025 – May 2028 (expected)  
 
 - **The Pennsylvania State University**, University Park  
@@ -23,23 +23,18 @@ Education
 Publications
 ======
 **In preparation**
-
 Paper on probabilistic extensions of Datalog for model counting, CAV 2026 (co-first author).
-
-Paper on high-performance probabilistic logic programming, CAV 2026 (collaborator). 
 
 Research Experience
 ======
 - **Research Assistant**, Purdue University
-  May 2025 - Present
+  May 2025 - Mar 2026
   Supervised by Dr. Jingbo Wang and Xuyang Li 
   * Duties included: 	                                                              
     - Designed and implemented a probabilistic extension of the Soufflé Datalog engine, adding full semantics for probabilistic queries, evidence, and weighted rules—a high-performance alternative to ProbLog.
-    - Implemented Marginal Probability Computations in Soufflé.
-    - Integrated Sentential Decision Diagram (SDD) into Soufflé for Weighted Model Counting (WMC); optimized Binary Decision Diagram (BDD) variable orderings for efficiency.
-    - Built benchmarks(webkb dataset) and evaluated performance against existing Problog implementations on multiple datasets.
-    - Developed correlation-aware derivation-graph rewrites, including multiple-patterns detection, and perserving probability equivalency.
-    - Co-first author on a paper in preparation for CAV 2026; collaborator on a paper in preparation for CAV 2026.
+    - Integrated Sentential Decision Diagram (SDD) into Soufflé for Weighted Model Counting (WMC).
+    - Evaluated performance against existing Problog implementations on multiple datasets.
+    - Co-first author on a paper in preparation for CAV 2026.
 
 Research Interests
 =====
@@ -49,5 +44,4 @@ Research Interests
 
 Coursework
 =====
-* In Progress: CMSC132 (Data Structures), CMSC250 (Discrete Math), MATH241 (Calculus III)  
-* Completed: CMSC131 (via placement), MATH140/141 (Calculus I–II, A), PHYS161 (Physics I, A)
+Introduction to Computer Systems, Discrete Structures; Linear Algebra; Applied Probability and Statistics; Multivariable Calculus; Complex Analysis.
