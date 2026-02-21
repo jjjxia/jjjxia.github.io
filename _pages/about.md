@@ -17,7 +17,7 @@ Focused on Scaling Probabilistic Logic Reasoning. Working with Souffle and Probl
 
 - Artificial Intelligence  
 - Formal Methods
-- Cognitive Science
+- Automed Reasoning
 
 ---
 

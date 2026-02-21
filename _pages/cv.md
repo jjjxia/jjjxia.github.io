@@ -20,10 +20,12 @@ Education
   Aug 2024 – May 2025  
   GPA: 3.94 / 4.00; Dean’s List (two semesters)  
 
+Selected Coursework: Introduction to Computer Systems, Discrete Structures; Data Strcucters; Linear Algebra; Applied Probability and Statistics; Multivariable Calculus; Complex Analysis.
+
 Publications
 ======
 **In preparation**
-Paper on probabilistic extensions of Datalog for model counting, CAV 2026 (co-first author).
+Paper on probabilistic extensions of Datalog for model counting, CAV 2026 (co-first author).[TO COME](/files/)
 
 Research Experience
 ======
@@ -34,14 +36,14 @@ Research Experience
     - Designed and implemented a probabilistic extension of the Soufflé Datalog engine, adding full semantics for probabilistic queries, evidence, and weighted rules—a high-performance alternative to ProbLog.
     - Integrated Sentential Decision Diagram (SDD) into Soufflé for Weighted Model Counting (WMC).
     - Evaluated performance against existing Problog implementations on multiple datasets.
-    - Co-first author on a paper in preparation for CAV 2026.
+    - Writting and Co-first author on a paper in preparation for CAV 2026.
 
 Research Interests
 =====
 * Artificial Intelligence
 * Formal Methods
-* Cognitive Science
+* Automed Reasoning
 
-Coursework
+Skills
 =====
-Introduction to Computer Systems, Discrete Structures; Linear Algebra; Applied Probability and Statistics; Multivariable Calculus; Complex Analysis.
+C/C++, Java, Python
