@@ -12,6 +12,15 @@ Hello! I’m **Jiahao Xia**, a rising junior at the University of Maryland. (Upd
 **May 2025 – Present**  
 Focused on Scaling Probabilistic Logic Reasoning. Working with Souffle and Problog.
 
+### Publications
+
+* Xuyang Li*, **Jiahao Xia***, Ahmed Adnan, and Jingbo Wang.
+  **PSOUFFLÉ: Scaling Exact Probabilistic Logic Inference for Program Analysis.**
+  *Formal Methods in Computer-Aided Design (FMCAD)*, 2026.
+
+* Equal contribution.
+
+
 ### Research Interests
 
 - ML Systems and ML Compilers
