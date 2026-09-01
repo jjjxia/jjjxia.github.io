@@ -15,8 +15,11 @@ Focused on Scaling Probabilistic Logic Reasoning. Working with Souffle and Probl
 ### Publications
 
 - Xuyang Li<sup>&#42;</sup>, **Jiahao Xia**<sup>&#42;</sup>, Ahmed Adnan, and Jingbo Wang.  
+
   **PSOUFFLÉ: Scaling Exact Probabilistic Logic Inference for Program Analysis.**  
-  *Formal Methods in Computer-Aided Design (FMCAD)*, 2026.
+
+  *Formal Methods in Computer-Aided Design (FMCAD)*, 2026.  
+  [[PDF](/files/FMCAD2026PSouffle.pdf)] [[Artifact](https://zenodo.org/records/20091940)]
 
 <sup>&#42;</sup> Equal contribution.
 
