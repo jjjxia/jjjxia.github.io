@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Brief introduction"
+title: "Jiahao Xia"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello! I’m **Jiahao Xia**, a rising junior at the University of Maryland. (Updated by 2026/5)
+Hello! I’m Jiahao Xia, a junior at the University of Maryland.
 
 ### Research Experience
 **May 2025 – Present**  
@@ -17,7 +17,7 @@ Focused on Scaling Probabilistic Logic Reasoning. Working with Souffle and Probl
 - Xuyang Li<sup>&#42;</sup>, **Jiahao Xia**<sup>&#42;</sup>, Ahmed Adnan, and Jingbo Wang.  
 
   **PSOUFFLÉ: Scaling Exact Probabilistic Logic Inference for Program Analysis.**  
-
+  
   *Formal Methods in Computer-Aided Design (FMCAD)*, 2026.  
   [[PDF](https://repositum.tuwien.at/handle/20.500.12708/230507)] [[Artifact](https://zenodo.org/records/20091940)]
 
