@@ -11,10 +11,17 @@
   padding-bottom: 2rem;
 
   a {
-    transition: color 160ms ease, border-color 160ms ease,
-      background-color 160ms ease, transform 160ms ease;
+    transition:
+      color 160ms ease,
+      border-color 160ms ease,
+      background-color 160ms ease,
+      transform 160ms ease;
   }
 }
+
+/* ==========================================================================
+   INTRO
+   ========================================================================== */
 
 .about__intro {
   position: relative;
@@ -53,6 +60,10 @@
   letter-spacing: -0.022em;
   line-height: 1.55;
 }
+
+/* ==========================================================================
+   PROFILE LINKS
+   ========================================================================== */
 
 .about__links {
   display: flex;
@@ -93,15 +104,15 @@
   }
 }
 
+/* ==========================================================================
+   SECTIONS
+   ========================================================================== */
+
 .about__section {
   margin: 0 0 3.75rem;
 }
 
 .about__section-heading {
-  display: grid;
-  grid-template-columns: 2.3rem minmax(0, 1fr);
-  gap: 0.85rem;
-  align-items: start;
   margin-bottom: 1.25rem;
 
   h2 {
@@ -114,13 +125,9 @@
   }
 }
 
-.about__section-number {
-  padding-top: 0.13rem;
-  color: var(--global-text-color-light);
-  font-family: $monospace;
-  font-size: 0.73rem;
-  font-weight: 700;
-}
+/* ==========================================================================
+   EXPERIENCE
+   ========================================================================== */
 
 .about__experience,
 .about__publication {
@@ -130,7 +137,6 @@
 }
 
 .about__experience {
-  margin-left: 3.15rem;
   padding: 1.25rem 1.35rem;
 
   h3 {
@@ -172,10 +178,13 @@
   }
 }
 
+/* ==========================================================================
+   PUBLICATIONS
+   ========================================================================== */
+
 .about__publications {
   display: grid;
   gap: 0.9rem;
-  margin-left: 3.15rem;
 }
 
 .about__publication {
@@ -252,16 +261,20 @@
 }
 
 .about__note {
-  margin: 0.75rem 0 0 3.15rem !important;
+  margin: 0.75rem 0 0 !important;
   color: var(--global-text-color-light);
   font-size: 0.72rem !important;
 }
+
+/* ==========================================================================
+   RESEARCH INTERESTS
+   ========================================================================== */
 
 .about__interests {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0.75rem;
-  margin: 0 0 0 3.15rem;
+  margin: 0;
   padding: 0;
   list-style: none;
 
@@ -292,12 +305,20 @@
   }
 }
 
+/* ==========================================================================
+   DARK MODE
+   ========================================================================== */
+
 html[data-theme="dark"] .about {
   --about-accent: #65c9dc;
   --about-accent-strong: #8bd9e7;
   --about-accent-soft: rgba(101, 201, 220, 0.13);
   --about-surface: rgba(255, 255, 255, 0.035);
 }
+
+/* ==========================================================================
+   RESPONSIVE
+   ========================================================================== */
 
 @media (max-width: 720px) {
   .about__intro {
@@ -309,17 +330,19 @@ html[data-theme="dark"] .about {
     font-size: 1.15rem !important;
   }
 
-  .about__experience,
-  .about__publications,
-  .about__note,
-  .about__interests {
-    margin-left: 0;
-  }
-
   .about__interests {
     grid-template-columns: 1fr;
   }
+
+  .about__experience-meta,
+  .about__publication-topline {
+    align-items: flex-start;
+  }
 }
+
+/* ==========================================================================
+   ACCESSIBILITY
+   ========================================================================== */
 
 @media (prefers-reduced-motion: reduce) {
   .about a {

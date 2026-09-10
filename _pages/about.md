@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiahao Xia"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
@@ -19,7 +19,6 @@ redirect_from:
 
   <section class="about__section" aria-labelledby="research-heading">
     <div class="about__section-heading">
-      <span class="about__section-number" aria-hidden="true">01</span>
       <div>
         <p class="about__kicker">What I’m working on</p>
         <h2 id="research-heading">Research Experience</h2>
@@ -37,7 +36,6 @@ redirect_from:
 
   <section class="about__section" aria-labelledby="publications-heading">
     <div class="about__section-heading">
-      <span class="about__section-number" aria-hidden="true">02</span>
       <div>
         <p class="about__kicker">Selected work</p>
         <h2 id="publications-heading">Publications</h2>
@@ -71,7 +69,6 @@ redirect_from:
 
   <section class="about__section" aria-labelledby="interests-heading">
     <div class="about__section-heading">
-      <span class="about__section-number" aria-hidden="true">03</span>
       <div>
         <p class="about__kicker">Topics I care about</p>
         <h2 id="interests-heading">Research Interests</h2>
