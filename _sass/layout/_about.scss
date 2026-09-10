@@ -1,0 +1,328 @@
+/* ========================================================================== 
+   ABOUT / HOME PAGE
+   ========================================================================== */
+
+.about {
+  --about-accent: #167d92;
+  --about-accent-strong: #0e6275;
+  --about-accent-soft: rgba(22, 125, 146, 0.1);
+  --about-surface: rgba(122, 130, 136, 0.055);
+
+  padding-bottom: 2rem;
+
+  a {
+    transition: color 160ms ease, border-color 160ms ease,
+      background-color 160ms ease, transform 160ms ease;
+  }
+}
+
+.about__intro {
+  position: relative;
+  margin: 0 0 3.75rem;
+  padding: 1.5rem 0 2rem;
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 4.5rem;
+    height: 3px;
+    border-radius: 999px;
+    background: var(--about-accent);
+  }
+}
+
+.about__eyebrow,
+.about__kicker {
+  margin: 0 0 0.55rem !important;
+  color: var(--about-accent);
+  font-size: 0.72rem !important;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.about__lead {
+  max-width: 46rem;
+  margin-bottom: 1.5rem !important;
+  color: var(--global-text-color);
+  font-size: clamp(1.2rem, 2.2vw, 1.55rem) !important;
+  font-weight: 450;
+  letter-spacing: -0.022em;
+  line-height: 1.55;
+}
+
+.about__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.page__content .about__button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.58rem 0.82rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.45rem;
+  color: var(--global-text-color);
+  font-size: 0.82rem;
+  font-weight: 650;
+  line-height: 1;
+  text-decoration: none;
+
+  &:hover {
+    border-color: var(--about-accent);
+    color: var(--about-accent);
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  &--primary {
+    border-color: var(--about-accent);
+    background: var(--about-accent);
+    color: #fff;
+
+    &:hover {
+      border-color: var(--about-accent-strong);
+      background: var(--about-accent-strong);
+      color: #fff;
+    }
+  }
+}
+
+.about__section {
+  margin: 0 0 3.75rem;
+}
+
+.about__section-heading {
+  display: grid;
+  grid-template-columns: 2.3rem minmax(0, 1fr);
+  gap: 0.85rem;
+  align-items: start;
+  margin-bottom: 1.25rem;
+
+  h2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 1.45rem;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+  }
+}
+
+.about__section-number {
+  padding-top: 0.13rem;
+  color: var(--global-text-color-light);
+  font-family: $monospace;
+  font-size: 0.73rem;
+  font-weight: 700;
+}
+
+.about__experience,
+.about__publication {
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.7rem;
+  background: var(--about-surface);
+}
+
+.about__experience {
+  margin-left: 3.15rem;
+  padding: 1.25rem 1.35rem;
+
+  h3 {
+    margin: 0.6rem 0 0.4rem;
+    font-size: 1.05rem;
+  }
+
+  p {
+    margin: 0;
+    color: var(--global-text-color-light);
+    line-height: 1.65;
+  }
+}
+
+.about__experience-meta,
+.about__publication-topline {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  color: var(--global-text-color-light);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.about__status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--about-accent);
+
+  span {
+    width: 0.45rem;
+    height: 0.45rem;
+    border-radius: 50%;
+    background: var(--about-accent);
+    box-shadow: 0 0 0 4px var(--about-accent-soft);
+  }
+}
+
+.about__publications {
+  display: grid;
+  gap: 0.9rem;
+  margin-left: 3.15rem;
+}
+
+.about__publication {
+  position: relative;
+  overflow: hidden;
+  padding: 1.25rem 1.35rem 1.2rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 3px;
+    background: var(--about-accent);
+  }
+
+  h3 {
+    margin: 0.75rem 0 0.5rem;
+    font-size: 1.05rem;
+    line-height: 1.45;
+  }
+}
+
+.about__venue {
+  display: inline-block;
+  padding: 0.25rem 0.48rem;
+  border-radius: 999px;
+  background: var(--about-accent-soft);
+  color: var(--about-accent);
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+
+  &--review {
+    color: var(--global-text-color-light);
+  }
+}
+
+.about__paper-type {
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.about__authors,
+.about__publication-venue {
+  margin-bottom: 0.55rem !important;
+  color: var(--global-text-color-light);
+  font-size: 0.82rem !important;
+  line-height: 1.55;
+}
+
+.about__paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 0.85rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--about-accent);
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--about-accent-strong);
+      text-decoration: none;
+    }
+  }
+}
+
+.about__note {
+  margin: 0.75rem 0 0 3.15rem !important;
+  color: var(--global-text-color-light);
+  font-size: 0.72rem !important;
+}
+
+.about__interests {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 0 0 0 3.15rem;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    min-width: 0;
+    gap: 0.7rem;
+    align-items: flex-start;
+    padding: 1rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: 0.7rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+
+  i {
+    margin-top: 0.16rem;
+    color: var(--about-accent);
+  }
+
+  small {
+    display: block;
+    margin-top: 0.2rem;
+    color: var(--global-text-color-light);
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
+}
+
+html[data-theme="dark"] .about {
+  --about-accent: #65c9dc;
+  --about-accent-strong: #8bd9e7;
+  --about-accent-soft: rgba(101, 201, 220, 0.13);
+  --about-surface: rgba(255, 255, 255, 0.035);
+}
+
+@media (max-width: 720px) {
+  .about__intro {
+    margin-bottom: 3rem;
+    padding-top: 0.5rem;
+  }
+
+  .about__lead {
+    font-size: 1.15rem !important;
+  }
+
+  .about__experience,
+  .about__publications,
+  .about__note,
+  .about__interests {
+    margin-left: 0;
+  }
+
+  .about__interests {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .about a {
+    transition: none;
+  }
+}
