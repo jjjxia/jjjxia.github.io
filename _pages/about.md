@@ -2,7 +2,7 @@
 permalink: /
 title: "Jiahao Xia"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
