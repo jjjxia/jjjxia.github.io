@@ -29,8 +29,8 @@ redirect_from:
         <span class="about__status"><span aria-hidden="true"></span> Current</span>
         <time datetime="2025-05">May 2025 – Present</time>
       </div>
-      <h3>Scaling Probabilistic Logic Reasoning</h3>
-      <p>Working with Soufflé and ProbLog to explore scalable probabilistic logic inference.</p>
+      <h3>Probabilistic Logic Reasoning for Program Analysis</h3>
+      <p>Working with Soufflé and ProbLog to explore scalable and certified probabilistic logic inference.</p>
     </article>
   </section>
 
