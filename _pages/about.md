@@ -9,7 +9,7 @@ redirect_from:
 <div class="about">
   <header class="about__intro">
     <p class="about__eyebrow">Computer Science · University of Maryland</p>
-    <p class="about__lead">Hello! I’m Jiahao, a junior exploring how compilers, formal methods, and machine learning systems can make complex programs faster and more trustworthy.</p>
+    <p class="about__lead">Hello! I’m Jiahao, a computer science undergraduate at the University of Maryland working on probabilistic program analysis and compiler validation, with interests in formal methods and ML systems.</p>
     <div class="about__links" aria-label="Profile links">
       <a class="about__button about__button--primary" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email me</a>
       <a class="about__button" href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
@@ -29,8 +29,8 @@ redirect_from:
         <span class="about__status"><span aria-hidden="true"></span> Current</span>
         <time datetime="2025-05">May 2025 – Present</time>
       </div>
-      <h3>Probabilistic Logic Reasoning for Program Analysis</h3>
-      <p>Working with Soufflé and ProbLog to explore scalable and certified probabilistic logic inference.</p>
+      <h3>PSoufflé: Probabilistic Logic Inference for Program Analysis</h3>
+      <p>Working with Prof. Jingbo Wang at Purdue University on <a href="https://github.com/psouffle-lang/psouffle">PSoufflé</a>, a Soufflé-based system for scalable exact probabilistic inference in program analysis. The <a href="https://github.com/psouffle-lang">PSoufflé organization</a> hosts the project.</p>
     </article>
   </section>
 
@@ -53,6 +53,7 @@ redirect_from:
         <div class="about__paper-links">
           <a href="https://repositum.tuwien.at/handle/20.500.12708/230507"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
           <a href="https://zenodo.org/records/20091940"><i class="fas fa-cube" aria-hidden="true"></i> Artifact</a>
+          <a href="https://github.com/psouffle-lang/psouffle"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
         </div>
       </article>
       <article class="about__publication">
@@ -65,6 +66,19 @@ redirect_from:
       </article>
     </div>
     <p class="about__note"><sup>∗</sup> Equal contribution.</p>
+  </section>
+
+  <section class="about__section" aria-labelledby="service-heading">
+    <div class="about__section-heading">
+      <div>
+        <p class="about__kicker">Academic community</p>
+        <h2 id="service-heading">Service</h2>
+      </div>
+    </div>
+    <article class="about__experience">
+      <h3>Artifact Evaluation Committee Member, TACAS 2027</h3>
+      <p>Tools and Algorithms for the Construction and Analysis of Systems</p>
+    </article>
   </section>
 
   <section class="about__section" aria-labelledby="interests-heading">
