@@ -13,24 +13,23 @@ redirect_from:
     <div class="about__links" aria-label="Profile links">
       <a class="about__button about__button--primary" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email me</a>
       <a class="about__button" href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
-      <a class="about__button" href="{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+      <a class="about__button" href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
     </div>
   </header>
 
   <section class="about__section" aria-labelledby="research-heading">
     <div class="about__section-heading">
       <div>
-        <p class="about__kicker">What I’m working on</p>
+        <p class="about__kicker">Research projects</p>
         <h2 id="research-heading">Research Experience</h2>
       </div>
     </div>
     <article class="about__experience">
       <div class="about__experience-meta">
-        <span class="about__status"><span aria-hidden="true"></span> Current</span>
-        <time datetime="2025-05">May 2025 – Present</time>
+        <span><time datetime="2025-05">May 2025</time> – <time datetime="2026-08">Aug 2026</time></span>
       </div>
       <h3>PSoufflé: Probabilistic Logic Inference for Program Analysis</h3>
-      <p>Working with Prof. Jingbo Wang at Purdue University on <a href="https://github.com/psouffle-lang/psouffle">PSoufflé</a>, a Soufflé-based system for scalable exact probabilistic inference in program analysis. The <a href="https://github.com/psouffle-lang">PSoufflé organization</a> hosts the project.</p>
+      <p>Worked with Prof. Jingbo Wang at Purdue University on <a href="https://github.com/psouffle-lang/psouffle">PSoufflé</a>, a Soufflé-based system for scalable exact probabilistic inference in program analysis. The <a href="https://github.com/psouffle-lang">PSoufflé organization</a> hosts the project.</p>
     </article>
   </section>
 

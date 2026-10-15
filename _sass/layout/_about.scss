@@ -163,21 +163,6 @@
   font-weight: 600;
 }
 
-.about__status {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  color: var(--about-accent);
-
-  span {
-    width: 0.45rem;
-    height: 0.45rem;
-    border-radius: 50%;
-    background: var(--about-accent);
-    box-shadow: 0 0 0 4px var(--about-accent-soft);
-  }
-}
-
 /* ==========================================================================
    PUBLICATIONS
    ========================================================================== */

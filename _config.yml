@@ -15,7 +15,7 @@ name                     : &name "Jiahao Xia"
 description              : &description ""
 url                      : https://jjjxia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jjjxia/jjjxia.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/jjjxia/"
+  github           : "jjjxia"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -118,7 +118,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # The blog is hosted on Zhihu; there are no local posts.
   path                   : # blank (default) uses feed.xml
 
 
@@ -172,6 +172,7 @@ exclude:
   - assets/js/plugins
   - assets/js/vendor
   - CHANGELOG
+  - CONTRIBUTING.md
   - Capfile
   - config
   - Dockerfile
@@ -181,10 +182,16 @@ exclude:
   - LICENSE
   - local
   - log
+  - markdown_generator
   - node_modules
   - package.json*
   - Rakefile
   - README
+  - scripts
+  - talkmap
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
