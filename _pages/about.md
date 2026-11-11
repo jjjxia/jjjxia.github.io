@@ -54,6 +54,7 @@ redirect_from:
           <a href="https://zenodo.org/records/20091940"><i class="fas fa-cube" aria-hidden="true"></i> Artifact</a>
           <a href="https://github.com/psouffle-lang/psouffle"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
         </div>
+      </article>
     </div>
     <p class="about__note"><sup>∗</sup> Equal contribution.</p>
   </section>
