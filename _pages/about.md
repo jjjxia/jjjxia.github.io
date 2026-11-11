@@ -54,15 +54,6 @@ redirect_from:
           <a href="https://zenodo.org/records/20091940"><i class="fas fa-cube" aria-hidden="true"></i> Artifact</a>
           <a href="https://github.com/psouffle-lang/psouffle"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
         </div>
-      </article>
-      <article class="about__publication">
-        <div class="about__publication-topline">
-          <span class="about__venue about__venue--review">Under review</span>
-          <span class="about__paper-type">CPP 2027</span>
-        </div>
-        <h3>End-to-End Verified Polyhedral Compilation</h3>
-        <p class="about__authors">Xuyang Li, Minghai Lu, Siyu Chen, <strong>Jiahao Xia</strong>, Weiyi Chen, and Jingbo Wang</p>
-      </article>
     </div>
     <p class="about__note"><sup>∗</sup> Equal contribution.</p>
   </section>
